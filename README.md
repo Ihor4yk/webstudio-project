@@ -1,6 +1,6 @@
 <h1>🖥️WebStudio</h1>
 
-<h2>📄Description:</h2>
+<h2>📄Description</h2>
 <p>Responsive website for a web design studio, built using modern layout techniques and a modular styling approach. The goal was to create an intuitive and visually appealing interface that effectively presents the company’s services and portfolio. 
 <br>
 Type: individual project 
