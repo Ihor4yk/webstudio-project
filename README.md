@@ -20,4 +20,4 @@
 </ul>
 
 <h2>Demo:</h2>
-<a href="https://ihor4yk.github.io/webstudio-project/">WebStudio</a>
+<a href="https://ihor4yk.github.io/webstudio-project/" target="_blank">WebStudio</a>
